@@ -1,4 +1,4 @@
-## terraform-samples
+## Terraform samples
 ___
 ### Sources:  
 1. https://www.terraform.io/  
